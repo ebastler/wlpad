@@ -12,7 +12,7 @@ This PCB was painly made as a proof-of-concept for my Hi-Tek 725 footprints, and
 rc1.0 had some issues (vertical 2u keys rotated by 180°, LEDs on plate connected to GND instead of VDD), which were addressed by the current rc1.1 version. However, the rc1.1 version has not been (and probably will not be) prototyped - use at your own risk. Please report back if you successfully tested such a PCB.
 
 ### Renders (rc1.1)
-![topside](wlpad\fab\wlpad-.top.png) ![botside](wlpad\fab\wlpad-.bottom.png)
+![topside](wlpad/fab/wlpad-.top.png) ![botside](wlpad/fab/wlpad-.bottom.png)
 
 ### Pixtures (rc1.0)
-![botside](img\wlpad_top.jpg)
+![botside](img/wlpad_top.jpg)
