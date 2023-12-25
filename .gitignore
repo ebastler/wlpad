@@ -23,7 +23,7 @@
 
 # Exported BOM files
 **/*.xml
-**/*.csv
+#**/*.csv
 
 # New KiCAD 6 backup folders
 **/*backups/*
